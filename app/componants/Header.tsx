@@ -49,7 +49,7 @@ const Header = () => {
           </select>
         </div>
       </div>
-      <nav className="flex justify-center align-baseline gap-14 border-b-2 py-3 font-semibold uppercase">
+      <nav className="flex justify-center align-baseline gap-2 lg:gap-6 border-b-2 py-3 font-semibold uppercase">
         <Link href="/">shop</Link>
         <Link href="/skills">skills</Link>
         <Link href="/stories">stories</Link>
